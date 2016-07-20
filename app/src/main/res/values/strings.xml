@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ListView with MaterialDesign</string>
+
+    <array name="cities">
+        <item>Chittagong</item>
+        <item>Comilla</item>
+        <item>Dhaka</item>
+        <item>Feni</item>
+        <item>Khulna</item>
+        <item>Pabna</item>
+        <item>Rajshahi</item>
+        <item>Sylhet</item>
+        <item>Tangail</item>
+        <item>Chittagong</item>
+        <item>Comilla</item>
+        <item>Dhaka</item>
+        <item>Feni</item>
+        <item>Khulna</item>
+        <item>Pabna</item>
+        <item>Rajshahi</item>
+        <item>Sylhet</item>
+        <item>Tangail</item>
+        <item>Chittagong</item>
+        <item>Comilla</item>
+        <item>Dhaka</item>
+        <item>Feni</item>
+        <item>Khulna</item>
+        <item>Pabna</item>
+        <item>Rajshahi</item>
+        <item>Sylhet</item>
+        <item>Tangail</item>
+        <item>Chittagong</item>
+        <item>Comilla</item>
+        <item>Dhaka</item>
+        <item>Feni</item>
+        <item>Khulna</item>
+        <item>Pabna</item>
+        <item>Rajshahi</item>
+        <item>Sylhet</item>
+        <item>Tangail</item>
+
+    </array>
+</resources>
